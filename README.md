@@ -46,7 +46,7 @@ A simple task management system built with ASP.NET Core (.NET 8), Entity Framewo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ge/taskmanagement-api.git
+   https://github.com/Geman99/Task_Management.git
    cd taskmanagement-api
 Run the following commands:
 dotnet restore
